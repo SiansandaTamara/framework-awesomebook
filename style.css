@@ -7,7 +7,7 @@ header {
   border: 3px solid black;
 }
 
-heade li {
+header li {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -50,6 +50,7 @@ header div:nth-child(1) p a {
 header div:nth-child(2) {
   width: 60%;
 }
+
 header div:nth-child(2) nav {
   margin: 10px 15px;
 }
