@@ -14,8 +14,7 @@
 - Figma Tempalate
 ## Live Demo (if available)
 
-[Live Demo Link](https://siansandatamara.github.io/awesome-book/
-)
+[Live Demo Link](https://siansandatamara.github.io/framework-awesomebook/)
 
 ## Getting Started
 
