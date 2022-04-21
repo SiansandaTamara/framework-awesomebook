@@ -3,7 +3,7 @@
 
 # awesomebook
 
-> This a group work project
+> This a group work project testing basic Javascript skills.
 
 # WORKFLOW SCREENSHOT
 ![screenshot]()
@@ -11,7 +11,7 @@
 ## Built With
 - HTML
 - CSS
-- Figma Tempalate
+- JavaScript
 ## Live Demo (if available)
 
 [Live Demo Link](https://siansandatamara.github.io/framework-awesomebook/)
@@ -24,7 +24,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Web Browser
 - Code Editor
-- Figma Template
 - Prior knowledge of CSS, HTML, GIT, GITHUB and Linters.
 
 ### Setup
@@ -33,12 +32,9 @@ To get a local copy up and running follow these simple example steps.
 git clone// https://siansandatamara.github.io/awesome-book/
 cd awsomebook
 
-### Usage
-
-Open the index file of the project in the browser to see the project
 
 ## Authors
-   ** cyril muchemi**
+👤  ** cyril muchemi**
 👤 **Tamara Siansanda**
 
 - GitHub: [@SiansandaTamara](https://github.com/SiansandaTamara)
